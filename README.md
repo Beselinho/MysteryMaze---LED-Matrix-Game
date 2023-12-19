@@ -31,7 +31,8 @@
   <summary> :framed_picture: Showcase :framed_picture: </summary>
   <p>Setup photo :</p>
   
-  ![matrixGameCheckpoint_photo2](https://github.com/Beselinho/MysteryMaze---LED-Matrix-Game/assets/116555068/e88f3603-f0a6-43aa-aa20-c6f994da4248)
+ ![matrixGame_photo2](https://github.com/Beselinho/MysteryMaze---LED-Matrix-Game/assets/116555068/4fa2bec3-b478-4cda-b3e0-5b7087c19a28)
+
 
 Link for video : (coming soon)
 
