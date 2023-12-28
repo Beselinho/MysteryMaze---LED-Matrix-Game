@@ -34,6 +34,6 @@
  ![matrixGame_photo2](https://github.com/Beselinho/MysteryMaze---LED-Matrix-Game/assets/116555068/4fa2bec3-b478-4cda-b3e0-5b7087c19a28)
 
 
-Link for video : (coming soon)
+Link for video : https://youtu.be/Mw3RL7q16ck
 
 </details>
