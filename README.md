@@ -1,4 +1,8 @@
 # MysteryMaze---LED-Matrix-Game
+  <p> :framed_picture: The setup :framed_picture: </p>
+  
+ ![matrixGame_photo2](https://github.com/Beselinho/MysteryMaze---LED-Matrix-Game/assets/116555068/4fa2bec3-b478-4cda-b3e0-5b7087c19a28)
+
 
 <details><summary> :bricks: Task requierment :bricks: </summary>
   I need to make a game on an 8x8 LED Matrix using a joystick, button, buzzer or everything else I want to add. The overall goal is to make a game that feels like a game, it should be fun to play and it should have a nice and intuitive menu. 
@@ -27,13 +31,6 @@
 </details>
 
 
-<details>
-  <summary> :framed_picture: Showcase :framed_picture: </summary>
-  <p>Setup photo :</p>
+  <summary> :movie_camera: Showcase :movie_camera: </summary>
   
- ![matrixGame_photo2](https://github.com/Beselinho/MysteryMaze---LED-Matrix-Game/assets/116555068/4fa2bec3-b478-4cda-b3e0-5b7087c19a28)
-
-
 Link for video : https://youtu.be/Mw3RL7q16ck
-
-</details>
